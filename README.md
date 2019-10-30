@@ -1,7 +1,5 @@
 # weather_js
 
-A web application that neatly display the weather of a location.
+A web application written in vanilla JS that neatly displays the weather of a given location.
 
-This application was written using vanilla JS.
 
-Users can change the location to display the weather for.
